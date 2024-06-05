@@ -8,7 +8,7 @@
 }
 
 body {
-  background-color: #191919;
+  background-color: #f90ea3;
   display: flex;
   min-height: 100vh;
   align-items: center;
@@ -17,8 +17,8 @@ body {
   color: white;
 }
 
-canvas {
-  background-color: #111;
+canvas { 
+  background-color: #1adce3;
 }
 
 .speed {
